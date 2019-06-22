@@ -40,4 +40,8 @@ chmod +x pir
 ./pir
 ```
 
+## How to stop the program
+To quit or stop the program click on **Ctrl+C**
+
+
 https://projects.raspberrypi.org/en/projects/physical-computing/13
